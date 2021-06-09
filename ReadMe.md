@@ -10,16 +10,19 @@ I'm not going to start off with boring theory, yes I'll get into the boring stuf
 
 Folders.  
 
-Start in the [first folder](/001_Getting_Started), read the `ReadMe` in the folder, I promise it will be brief explain what the code base is doing.  The folders are sequentially but not consecutively numbered, I've left room for additions and some times amalgamated steps.  Skip forward att your own risk, I'm not backwards explaining anything and I'm not adding reviews.
+Start in the [first folder](/001_Getting_Started), read the `ReadMe` in the folder, I promise it will be brief explain what the code base is doing.  The folders are sequentially but not consecutively numbered, I've left room for additions and some times amalgamated steps.  Skip forward at your own risk, I'm not backwards explaining anything and I'm not adding reviews.
+
+Also, the folders are meant to be done in sequence, from on to the next.  If there are alternate paths, they will be pulled out as subpaths.
 
 ## Prerequistes
 
 - Some experience with _Typescript_ or _Javascript_ is handy.
 - The examples were all written in VSCode on a docker dev container, so maximum mileage can be obtained with that configuration.
 - The OS platform is Ubuntu 20.x
-- Everything else is installed as we go along, wait no it isn't, you need current version of:
-  - git
-  - node
+- Everything else is installed as we go along, wait no it isn't, you need current or better version of:
+  - git `git --version` >= 2.20.1
+  - node `node --version` >= 16.3.0
+  - npm `npm --version` >= 7.15.1
 
 ## Others
 
