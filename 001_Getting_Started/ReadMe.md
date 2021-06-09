@@ -45,4 +45,8 @@ Beautiful ain't it!.  If you still have the command `ng serve` running the web p
 
 ## Conclusion
 
-Hey wait, this was an _Angular_ tutorial!  Yeah, well I had to get us to a common starting point.  Since this was reasonable easy we can jump forward to [first RXJS](/004_First_RXJS/ReadMe.md)
+Hey wait, this was an _Angular_ tutorial!  Yeah, well I had to get us to a common starting point.  Since this was reasonably easy we can jump forward to the [repeater](/004_First_RXJS/ReadMe.md).
+
+## Files Edited
+
+Other then the generated files, all we did here was remove the cruft from the one _html_ file.  In future lessons, I'll list the files edited here so if you get stuck you can compare your files to mine.  I guess it would make sense that I only forward edit files, meaning, I won't change the content of files to an intermediate step in on lesson.
