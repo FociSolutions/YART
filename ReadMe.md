@@ -18,8 +18,11 @@ Also, the folders are meant to be done in sequence, from on to the next.  If the
 
 - Some experience with _Typescript_ or _Javascript_ is handy.
 - The examples were all written in VSCode on a docker dev container, so maximum mileage can be obtained with that configuration.
-  - The `.devcontainer` is included as a submodule, to use the `.devcontainer` execute:
-  - `git submodule init && git submodule update` with the root repository
+  - The `.devcontainer` is included as a submodule, to use the `.devcontainer`, from within the repository execute:
+```sh
+git submodule init
+git submodule update
+``` 
 - The OS platform is Ubuntu 20.x
 - Everything else is installed as we go along, wait no it isn't, you need current or better version of:
   - git `git --version` >= 2.20.1
