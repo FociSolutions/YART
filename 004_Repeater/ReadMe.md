@@ -1,6 +1,6 @@
-# First RXJS
+# Repeater
 
-Welcome to the 2nd step, we'll quickly get a couple of _RXJS_ actions happening.  Assuming your picking this up from the last step you should have a running angular app.  Possibly, an actually running app if you haven't done a `^c` to shut down the `ng serve` command.  Don't do it now, we'll just add stuff on the fly.
+Welcome to the 2nd step, we're going to get a little more scafolding in place so we can build on something.
 
 ## Add a Simple Repeater Component
 
