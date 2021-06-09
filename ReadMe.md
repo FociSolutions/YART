@@ -16,6 +16,10 @@ Start in the [first folder](/001_Getting_Started), read the `ReadMe` in the fold
 
 - Some experience with _Typescript_ or _Javascript_ is handy.
 - The examples were all written in VSCode on a docker dev container, so maximum mileage can be obtained with that configuration.
+- The OS platform is Ubuntu 20.x
+- Everything else is installed as we go along, wait no it isn't, you need current version of:
+  - git
+  - node
 
 ## Others
 
