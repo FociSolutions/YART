@@ -10,9 +10,12 @@ I'm not going to start off with boring theory, yes I'll get into the boring stuf
 
 Folders.  
 
-Start in the [first folder](/001_Getting_Started), read the `ReadMe` in the folder, I promise it will be brief explain what the code base is doing.  The folders are sequentially but not consecutively numbered, I've left room for additions and some times amalgamated steps.  Skip forward at your own risk, I'm not backwards explaining anything and I'm not adding reviews.
+Start in the [first folder](/001_Getting_Started), read the `ReadMe` in the folder, I promise it will be brief explain what the code base is doing.  
+The folders are sequentially but not consecutively numbered, I've left room for additions and some times amalgamated steps.  
+Skip forward at your own risk, I'm not backwards explaining anything and I'm not adding reviews.
 
-Also, the folders are meant to be done in sequence, from on to the next.  If there are alternate paths, they will be pulled out as subpaths.
+Also, the folders are meant to be done in sequence, from on to the next.  
+If there are alternate paths, they will be pulled out as subpaths.
 
 ## Prerequistes
 
