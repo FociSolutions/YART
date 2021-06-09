@@ -45,7 +45,7 @@ Beautiful ain't it!.  If you still have the command `ng serve` running the web p
 
 ## Conclusion
 
-Hey wait, this was an _Angular_ tutorial!  Yeah, well I had to get us to a common starting point.  Since this was reasonably easy we can jump forward to the [repeater](/004_First_RXJS/ReadMe.md).
+Hey wait, this was an _Angular_ tutorial!  Yeah, well I had to get us to a common starting point.  Since this was reasonably easy we can jump forward to the [repeater](/004_Repeater/ReadMe.md).
 
 ## Files Edited
 
